@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amelhll
 - 👀 I’m interested in webgames and apps developments
-- 🌱 I’m currently learning python, c++, java and javascrip
+- 🌱 I’m currently learning python, c++, java and javascript
 - 📫 you can reach me on: amel.hellal.prof@gmail.com
 
 <!---
